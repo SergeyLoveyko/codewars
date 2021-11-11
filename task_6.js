@@ -1,4 +1,4 @@
-//  6. - Training JS #4: Basic data types--Array
+//  6. - Training JS #5: Basic data types--Object
 
 function animal(obj){
     return 'This ' + obj.color + ' ' + obj.name + ' has ' + obj.legs + ' legs.';
