@@ -1,4 +1,4 @@
-//  164. - Count the Digit
+//  164. -  
 
 function nbDig(n, d) {
     let arr = [];
